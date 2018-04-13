@@ -1,5 +1,6 @@
-*überarbeitetes Installationsskript
+# überarbeitetes Installationsskript
 
+## Installation der verschiedenen Maps/ Radar Hacks 
 ```
 8k:
 wget https://raw.githubusercontent.com/Electricz1337/PUBG_radar_setup/master/setup8k.sh
@@ -22,7 +23,7 @@ sudo ./setup2k.sh
 **To start the Radar execute:**
 `sudo ./run.sh`
 
-***Thanks to:
+### Thanks to:
 EmberVulpix: https://github.com/EmberVulpix/Gaydar for programming the original Radar Hack
 sm00thelf for the basic script: https://high-minded.net/members/sm00thelf.40217/
 zecjy for the first installation script: https://github.com/zecjy/PUBG_radar_setup
