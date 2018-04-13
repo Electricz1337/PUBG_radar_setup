@@ -29,10 +29,8 @@ git clone https://github.com/Electricz1337/Gaydar
 
 cd Gaydar
 
-mv src/main/resources/maps/Erangel_Minimap.png src/main/resources/maps/Erangel8k.png
-mv src/main/resources/maps/Miramar_Minimap.png src/main/resources/maps/Miramar8k.png
-mv src/main/resources/maps/Erangel4k.png src/main/resources/maps/Erangel_Minimap.png
-mv src/main/resources/maps/Miramar4k.png src/main/resources/maps/Miramar_Minimap.png
+mv src/main/resources/maps/Erangel2k.png src/main/resources/maps/Erangel8k.png
+mv src/main/resources/maps/Miramar2k.png src/main/resources/maps/Miramar8k.png
 
 mvn -T 1C clean verify install
 
