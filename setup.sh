@@ -29,6 +29,9 @@ git clone https://github.com/Electricz1337/Gaydar
 
 cd Gaydar
 
+mv src/main/resources/maps/Erangel_8k.png src/main/resources/maps/Erangel8k.png
+mv src/main/resources/maps/Miramar_8k.png src/main/resources/maps/Miramar8k.png
+
 mvn -T 1C clean verify install
 
 cd ..
