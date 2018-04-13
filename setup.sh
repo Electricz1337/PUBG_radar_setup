@@ -25,7 +25,7 @@ apt-get -y install dsniff
 apt-get -y install maven
 apt-get -y install git
 
-git clone https://github.com/EmberVulpix/Gaydar
+git clone https://github.com/Electricz1337/Gaydar
 
 cd Gaydar
 
