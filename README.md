@@ -38,6 +38,5 @@ sudo ./setup2k.sh
 ### Thanks to:
 EmberVulpix: https://github.com/EmberVulpix/Gaydar for programming the original Radar Hack
 
-sm00thelf for the basic script: https://high-minded.net/members/sm00thelf.40217/
 
 zecjy for the first installation script: https://github.com/zecjy/PUBG_radar_setup
