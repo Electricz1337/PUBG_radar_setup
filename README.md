@@ -4,6 +4,8 @@
 
 ```
 For the first installation of the Radar use:
+wget https://raw.githubusercontent.com/Electricz1337/PUBG_radar_setup/master/setup.sh
+sudo chmod +x setup.sh
 sudo ./setup.sh
 
 If you just want to update the Radar to the newest Version or change your Map resolution use:
