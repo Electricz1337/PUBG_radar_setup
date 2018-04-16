@@ -12,20 +12,20 @@ do
     case $opt in
          "2k Map")
             echo "Using 2k Map"
-              mv src/main/resources/maps/Erangel_2k.png src/main/resources/maps/Erangel8k.png
-              mv src/main/resources/maps/Miramar_2k.png src/main/resources/maps/Miramar8k.png
+              mv src/main/resources/maps/Erangel_2k.png src/main/resources/maps/Erangel_Minimap.png
+              mv src/main/resources/maps/Miramar_2k.png src/main/resources/maps/Miramar_Minimap.png
             break
             ;;
         "4k Map")
             echo "Using 4k Map"
-              mv src/main/resources/maps/Erangel_4k.png src/main/resources/maps/Erangel8k.png
-              mv src/main/resources/maps/Miramar_4k.png src/main/resources/maps/Miramar8k.png
+              mv src/main/resources/maps/Erangel_4k.png src/main/resources/maps/Erangel_Minimap.png
+              mv src/main/resources/maps/Miramar_4k.png src/main/resources/maps/Miramar_Minimap.png
             break
             ;;
         "8k Map")
             echo "Using 8k Map"
-              mv src/main/resources/maps/Erangel_8k.png src/main/resources/maps/Erangel8k.png
-              mv src/main/resources/maps/Miramar_8k.png src/main/resources/maps/Miramar8k.png
+              mv src/main/resources/maps/Erangel_8k.png src/main/resources/maps/Erangel_Minimap.png
+              mv src/main/resources/maps/Miramar_8k.png src/main/resources/maps/Miramar_Minimap.png
             break
             ;;
         *) echo invalid option;;
