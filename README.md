@@ -1,6 +1,16 @@
 # überarbeitetes Installationsskript
 
 ## Installation der verschiedenen Maps/ Radar Hacks 
+
+```
+For the first installation of the Radar use:
+sudo ./setup.sh
+
+If you just want to update the Radar to the newest Version or change your Map resolution use:
+sudo ./update.sh
+```
+
+*If you want to directly create a specific map you can also use:*
 ```
 8k:
 wget https://raw.githubusercontent.com/Electricz1337/PUBG_radar_setup/master/setup8k.sh
@@ -25,5 +35,7 @@ sudo ./setup2k.sh
 
 ### Thanks to:
 EmberVulpix: https://github.com/EmberVulpix/Gaydar for programming the original Radar Hack
+
 sm00thelf for the basic script: https://high-minded.net/members/sm00thelf.40217/
+
 zecjy for the first installation script: https://github.com/zecjy/PUBG_radar_setup
